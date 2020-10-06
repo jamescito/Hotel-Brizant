@@ -194,7 +194,7 @@ h1.N::first-letter{
     border-radius: 20px;
     margin-right: auto;
     margin-top: 35px;
-    background-color: rgb(220, 232, 255);
+    background-color: rgb(99, 109, 129);
     border-width: 1px;
     border-style: solid;
 }
@@ -271,9 +271,11 @@ h1.N::first-letter{
 
 #dia{
     text-align: center;
-    margin-left: 40%;
-    font-size: 13px;
-    font-family:'Castellar', sans-serif;       
+    margin-left: 38%;
+    font-size: 20px;
+    font-family:'Castellar', sans-serif;   
+    color: black;    
+    
 }
 
 #Can{
