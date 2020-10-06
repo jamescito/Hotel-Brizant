@@ -115,13 +115,13 @@ h1.N::first-letter{
 }
 
 #imagen{
-    height: 600px;
+    height: 500px;
     display: block;
     border-radius: 20px;
     margin-right:auto ;
     margin-top: 35px;
-    width: 20%;
-    margin-left: 15px;
+    width: 35%;
+    margin-left: 30px;
 }
 #tarjetas{
     width: 510px;
@@ -137,6 +137,9 @@ h1.N::first-letter{
 #s{
     color:white;
     background-color: rgb(49, 35, 35);
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    text-align: center;
 }
 #servicios{
 
@@ -416,4 +419,78 @@ div.contenedorh1 > h1
     margin-left: auto;
     margin-right: auto;
 
+}
+.contenedor-11{
+    width: 90%;
+    height: 448px;
+    margin-left: auto;
+    margin-right: auto;
+    border-top: solid 1px gray;
+    border-bottom: solid 1px gray;
+}
+
+#derecha{
+    width: 45%;
+    height: auto;
+    display: inline-block;
+    background-color: white;
+    margin-left: 50px;
+    margin-top: 50px;
+    border-radius: 20px;
+    border: solid 1px gray;
+}
+.contenedor-11 > #derecha > div > img {
+    margin:5px;
+    width: 55%;
+    height: 300px;
+    border-radius: 20px;
+    margin-top: 9px;
+    margin-left: 9px;
+}
+
+.Dato{
+    border-top: -1px;
+    width: 40%;
+    height: 200px;
+    float: right;
+    display: inline-block;
+    margin-top: -280px;
+    margin-left: 300px;
+}
+
+#izq{
+    width: 45%;
+    height: auto;
+    display: inline-block;
+    background-color: white;
+    margin-left: 50px;
+    margin-top: 50px;
+    border-radius: 20px;
+    border: solid 1px gray;
+}
+.Dato1{
+    border-top: -1px;
+    width: 40%;
+    height: 200px;
+    float: right;
+    display: inline-block;
+    margin-top: -280px;
+    margin-left: 300px;
+}
+.contenedor-11 > #izq > div > img {
+    margin:5px;
+    width: 55%;
+    height: 300px;
+    border-radius: 20px;
+    margin-top: 9px;
+    margin-left: 9px;
+}
+.fb{
+    margin-left: 0%;
+    text-decoration: none;
+}
+#fcb{
+    display: inline-block;
+    width: 2%;
+    margin-left: 45%;
 }
