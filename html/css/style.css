@@ -434,6 +434,7 @@ div.contenedorh1 > h1
     margin-right: auto;
 
 }
+
 .contenedor-11{
     width: 90%;
     height: 448px;
@@ -467,7 +468,6 @@ div.contenedorh1 > h1
     width: 40%;
     height: 200px;
     float: right;
-    display: inline-block;
     margin-top: -280px;
     margin-left: 300px;
 }
