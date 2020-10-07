@@ -70,10 +70,10 @@ h1.N::first-letter{
     margin-top: 105px;
     background-color: black;
     width: 100%;
-<<<<<<< HEAD
     height: 50px;
-    
+
 }
+
 #link>a{
     color: greenyellow;
     text-decoration: none;
@@ -83,7 +83,6 @@ h1.N::first-letter{
     background-color: rgb(29, 48, 66);
 =======
  
-    
 }
 #link>a{ 
     list-style-type: none;
@@ -114,6 +113,13 @@ h1.N::first-letter{
     margin-top: 2%;
 }
 #irbrizant{
+    margin-top: 1%;
+    display: block;
+    color:green;
+    text-decoration: none;
+    margin-left: 50%;
+}
+#facebook{
     margin-top: 1%;
     display: block;
     color:green;
