@@ -200,5 +200,31 @@
     margin-top: -8%;
     margin-right: auto;
 }
+#div-bar{
+    margin: auto;
+    display: block;
+    margin-top: 10%;
+    width: 60%;
+    background-color: rgb(71, 45, 45);
+    border-radius: 10%;
+    border: rgb(250, 249, 249);
+    border-style: solid;    
+}
 
-
+#bar{
+    width: 60%;
+    height: 200px;
+    border-radius: 20%;
+    display: block;
+    margin: auto;
+    
+    
+}
+#lista-bar
+{
+    width:100%;
+    text-align: center;
+    color: black;
+    background-color: rgb(233, 230, 230);
+    
+}
