@@ -405,7 +405,7 @@ h1.N::first-letter{
 }
 
 #main-gal{
-    background-color: cornflowerblue;
+    background-color: rgb(25, 32, 46);
     display: inline-block;
     width: 100%;
     height: auto;
