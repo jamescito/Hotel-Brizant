@@ -535,3 +535,24 @@ div.contenedorh1 > h1
 #buton{
     text-decoration: none;
 }
+#ca{
+    display: block;
+    margin: auto;
+    margin-top: 3%;
+    width: 60%;
+    height: 50%;
+}
+#habit{
+    margin:5px;
+    width: 70%;
+    height: 600px;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-left: 18%;
+    background-color: rgb(78, 50, 46);
+}
+#co{
+    font: italic;
+    background-color: white;
+    height: 50%;
+}
